@@ -1,0 +1,5 @@
+Test ID,Test Name,Module,Status,Automation Tool
+TC001,Login with valid credentials,Auth,Pass,NA
+TC002,Create new user,User Management,Fail,NA
+AT001,Search functionality,Search,Not Executed,Selenium
+AT002,Checkout flow,ECommerce,Not Executed,Playwright

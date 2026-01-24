@@ -1,0 +1,12 @@
+{
+    "feature_importance": {
+        "Hours Studied": 7.385592423795492,
+        "Previous Scores": 17.636899260505093,
+        "Extracurricular Activities": 0.3042918823481812,
+        "Sleep Hours": 0.8087869625986206,
+        "Sample Question Papers Practiced": 0.550019954277315
+    },
+    "intercept": 55.240756800755946,
+    "r2_score": 0.9889832909573145,
+    "rmse": 2.0205515085050063
+}

@@ -1,0 +1,5 @@
+Test ID,Test Name,Module,Status,Automation Tool
+TC001,Login with valid user,Auth,Pass,NA
+TC002,Login with invalid user,Auth,Fail,NA
+TC003,Create user via UI,User,Pass,Selenium
+TC004,Delete user via API,User,Pass,Playwright
