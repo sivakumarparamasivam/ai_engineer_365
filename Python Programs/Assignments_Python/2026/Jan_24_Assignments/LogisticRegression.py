@@ -8,9 +8,9 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
 # CSV File Load & Basic validations
-base_dir = Path(__file__).parent/"Social_Network_Ads.csv"
+csv_path = Path(__file__).parent/"Social_Network_Ads.csv"
 
-df= pd.read_csv(base_dir)
+df= pd.read_csv(csv_path)
 print(df.head(10))
 print("Data Shape", df.shape)
 print("Data Describe", df.describe())
